@@ -13,11 +13,11 @@ Drop out [Korea Univ](https://www.korea.ac.kr/) 2020.03 ~ 2021.02
 
 Being in [KAIST](http://kaist.ac.kr/) 2021.02
 
-## # Awards
-### ## 2021
+### # Awards
+#### ## 2021
 🥇 `Just CTF` 1st ( Team. AlPray ) 
 
-### ## 2020
+#### ## 2020
 🥇 `SECCON CTF` 1st ( Team. HangulSarang ) 
 
 🥇 `m0lecon` 1st ( Team. AlPray )
