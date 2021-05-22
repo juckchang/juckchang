@@ -22,26 +22,8 @@ Being in [KAIST](http://kaist.ac.kr/) 2021.02
 
 🥇 `m0lecon` 1st ( Team. AlPray )
 
-🥈 `HackTM` 2rd ( Team. ROK YoungBloods )
-
 🏅 `0CTF/TCTF` finalist ( Team. koreanbadass )
 
 🏅 `DefCON 28` finalist ( Team. Cykor )
 
-🏅 `CODEBLUE` finalist ( Team. KoreaSuperPower )
-
-🏅 `CodeGate` Univ finalist ( Team. USACykor )
-
-🏅 `ASIS` finalist ( Team. DefenitelyZer0 )
-
-🏅 `WhiteHat grandpix` finalist ( Team. JustToPlay )
-
-
-### ## 2019
-🥇 `CodeGate` 1st Junior
-
-🥇 `WhiteHat Contest` 1st Junior ( Team. Uneducated People )
-
-🥇 `Timisoara CTF` 1st ( Team. Michael )
-
-🏅 `DefCON 27` Finalist ( Team. koreanbadass )
+...
