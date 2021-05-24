@@ -5,7 +5,7 @@
 ### ## Teams
 `GoN`, `Aleph Infinite`, `SED`
 ### ## Educated
-Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2020.02
+Graduated [Ansan Technical High School](http://www.ansanth.net/) in 2020.02
 
 Graduated [Best of Best](https://www.kitribob.kr/) 7th in 2018
 
