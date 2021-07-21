@@ -2,8 +2,6 @@
 
 ### ## Name
 `Juchang Lee` (a.k.a `c2w2m2`)
-### ## Jobs
-`Security Reseacher` in [ENKI](http://enki.co.kr/)
 ### ## Teams
 `GoN`, `Aleph Infinite`, `SED`
 ### ## Educated
