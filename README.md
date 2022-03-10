@@ -3,7 +3,7 @@
 ### ## Name
 `Juchang Lee` (a.k.a `c2w2m2`)
 ### ## Teams
-`GoN`, `Aleph Infinite`, `SED`
+`GoN`, `Aleph Infinite` (and `AlPray`), `SED`
 ### ## Educated
 Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2020.02
 
@@ -14,13 +14,24 @@ Drop out [Korea Univ](https://www.korea.ac.kr/) 2020.03 ~ 2021.02
 Being in [KAIST](http://kaist.ac.kr/) 2021.02
 
 ### ## Awards
+#### ### 2022
+🥇 `Hayyim CTF` 1st ( Team. 하임이 흑화하면? 초코하임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ ) 
+
 #### ### 2021
 🥇 `Just CTF` 1st ( Team. AlPray ) 
+
+🏅 `ISITDTU CTF` 4th ( Team. Do you know BTS? )
+
+🏅 `SSTF` 5th ( Team. Cykor )
 
 #### ### 2020
 🥇 `SECCON CTF` 1st ( Team. HangulSarang ) 
 
 🥇 `m0lecon` 1st ( Team. AlPray )
+
+🥈 `CodeGate` univ qual 2st ( Team. USACykor)
+
+🥈 `zer0pts` 2st ( Team. Cykor )
 
 🏅 `0CTF/TCTF` finalist ( Team. koreanbadass )
 
