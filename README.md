@@ -1,7 +1,7 @@
 [Blog](https://blog.pwning.me/) [Facebook](https://fb.com/c2w2m2) [Twitter](https://twitter.com/c2w2m2) [Email](mailto:juchang0308@gmail.com)
 
 ### ## Name
-`Juchang Lee` (a.k.a `c2w2m2`)
+`Juchang Lee` (a.k.a `c2w2m2`), Offensive Research of [ENKI](https://enki.co.kr/)
 ### ## Teams
 `GoN`, `Aleph Infinite` (and `AlPray`), `SED`
 ### ## Educated
