@@ -5,13 +5,14 @@
 ### ## Teams
 `GoN`, `Aleph Infinite` (and `AlPray`), `SED`
 ### ## Educated
-Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2020.02
+Being in [KAIST](http://kaist.ac.kr/) Bachelor 2021.02 ~ 
+
+Drop out [Korea Univ](https://www.korea.ac.kr/) Bachelor 2020.03 ~ 2021.02
 
 Graduated [Best of Best](https://www.kitribob.kr/) 7th in 2018
 
-Drop out [Korea Univ](https://www.korea.ac.kr/) 2020.03 ~ 2021.02
+Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 2020.02
 
-Being in [KAIST](http://kaist.ac.kr/) 2021.02
 
 ### ## Awards
 #### ### 2022
