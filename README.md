@@ -38,3 +38,17 @@ Being in [KAIST](http://kaist.ac.kr/) 2021.02
 🏅 `DefCON 28` finalist ( Team. Cykor )
 
 ...
+
+### ## Author
+#### ### 2022
+- Codegate
+
+#### ### 2021
+- 사이버공격방어대회(CCE)
+- 금융권 사이버 침해위협분석 대회(FIESTA) 
+
+#### ### 2020
+- 사이버공격방어대회(CCE)
+- 금융권 사이버 침해위협분석 대회(FIESTA) 
+
+
