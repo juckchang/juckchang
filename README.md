@@ -16,6 +16,7 @@ Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 20
 
 ### ## Awards
 #### ### 2022
+🥉 `DEFCON 30 CTF` 3rd (team StarBugs) & 🥇 `DEFCON 30 LiveCTF` 1st
 🥇 `Hayyim CTF` 1st ( Team. 하임이 흑화하면? 초코하임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ ) 
 
 #### ### 2021
