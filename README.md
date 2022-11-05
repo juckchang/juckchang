@@ -44,6 +44,7 @@ Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 20
 
 ### ## Author
 #### ### 2022
+- 사이버공격방어대회(CCE)
 - Codegate
 
 #### ### 2021
