@@ -3,9 +3,10 @@
 ### ## Name
 `Juchang Lee` (a.k.a `c2w2m2`), Offensive Researcher on [ENKI](https://enki.co.kr/)
 ### ## Teams
-`GoN`, `Aleph Infinite` (and `AlPray`), `SED`
+`GoN`, `SED`, `SuperGuesser`
+
 ### ## Educated
-Being in [KAIST](http://kaist.ac.kr/) Bachelor 2021.02 ~ 
+Being in [KAIST](http://kaist.ac.kr/) CS, EE Bachelor 2021.02 ~ 
 
 Drop out [Korea Univ](https://www.korea.ac.kr/) Bachelor 2020.03 ~ 2021.02
 
