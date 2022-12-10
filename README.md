@@ -1,9 +1,11 @@
 [Blog](https://blog.pwning.me/) [Facebook](https://fb.com/c2w2m2) [Twitter](https://twitter.com/c2w2m2) [Email](mailto:juchang0308@gmail.com)
 
 ### ## Name
-`Juchang Lee` (a.k.a `c2w2m2`), Offensive Researcher on [ENKI](https://enki.co.kr/)
+`Juchang Lee` (a.k.a `c2w2m2`)
 ### ## Teams
 `GoN`, `SED`, `SuperGuesser`
+
+Offensive Researcher on [ENKI](https://enki.co.kr/)
 
 ### ## Educated
 Being in [KAIST](http://kaist.ac.kr/) CS, EE Bachelor 2021.02 ~ 
