@@ -16,7 +16,7 @@ Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 20
 
 ### ## Career
 
-Security Researcher on ENKI 2020.03 ~ 2022.12
+Security Researcher on [ENKI](https://enki.co.kr/) 2020.03 ~ 2022.12
 
 ### ## Awards
 #### ### 2022
@@ -25,6 +25,8 @@ Security Researcher on ENKI 2020.03 ~ 2022.12
 🥉 `DEFCON 30 CTF` 3rd ( Team. StarBugs) & 🥇 `DEFCON 30 LiveCTF` 1st
 
 🥇 `Hayyim CTF` 1st ( Team. 하임이 흑화하면? 초코하임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ ) 
+
+🏅 `SECCON` finalist ( Team. ChaShu )
 
 #### ### 2021
 🥇 `Just CTF` 1st ( Team. AlPray ) 
