@@ -22,11 +22,13 @@ Security Researcher on [ENKI](https://enki.co.kr/) 2020.03 ~ 2022.12
 #### ### 2022
 🥈 `BlackHatMea CTF` 2rd ( Team. \{\{7*7\}\} )
 
-🥉 `DEFCON 30 CTF` 3rd ( Team. StarBugs) & 🥇 `DEFCON 30 LiveCTF` 1st
+🥉 `DEFCON 30 CTF` 3rd ( Team. StarBugs ) & 🥇 `DEFCON 30 LiveCTF` 1st
+
+🥉 `lineCTF` 3rd ( Team. donkey ) 
 
 🥇 `Hayyim CTF` 1st ( Team. 하임이 흑화하면? 초코하임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ ) 
 
-🏅 `SECCON` finalist ( Team. ChaShu )
+🏅 `SECCON CTF` finalist ( Team. ChaShu )
 
 #### ### 2021
 🥇 `Just CTF` 1st ( Team. AlPray ) 
@@ -62,5 +64,3 @@ Security Researcher on [ENKI](https://enki.co.kr/) 2020.03 ~ 2022.12
 #### ### 2020
 - 사이버공격방어대회(CCE)
 - 금융권 사이버 침해위협분석 대회(FIESTA) 
-
-
