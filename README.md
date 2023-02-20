@@ -5,8 +5,6 @@
 ### ## Teams
 `GoN`, `SED`, `SuperGuesser`
 
-Offensive Researcher on [ENKI](https://enki.co.kr/)
-
 ### ## Educated
 Being in [KAIST](http://kaist.ac.kr/) CS, EE Bachelor 2021.02 ~ 
 
@@ -16,6 +14,9 @@ Graduated [Best of Best](https://www.kitribob.kr/) 7th in 2018
 
 Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 2020.02
 
+### ## Career
+
+Security Researcher on ENKI 2020.03 ~ 2022.12
 
 ### ## Awards
 #### ### 2022
