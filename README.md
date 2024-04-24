@@ -15,6 +15,13 @@ Graduated [Best of Best](https://www.kitribob.kr/) 7th in 2018
 Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 2020.02
 
 ### ## Awards
+#### ### 2024
+🥇 `Plaid CTF` 1st ( Team. Hypeboy ) 
+
+#### ### 2023
+🏅 `DEFCON 31 CTF` 4rd ( Team. Hypeboy ) & 🥈 `DEFCON 31 LiveCTF` 2rd 
+
+
 #### ### 2022
 🥈 `BlackHatMea CTF` 2rd ( Team. \{\{7*7\}\} )
 
