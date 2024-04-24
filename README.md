@@ -3,7 +3,7 @@
 ### ## Name
 `Juchang Lee` (a.k.a `c2w2m2`)
 ### ## Teams
-`GoN`, `SED`, `SuperGuesser`
+`GoN`, `HypeBoy`, `SuperGuesser`
 
 ### ## Educated
 Being in [KAIST](http://kaist.ac.kr/) CS, EE Bachelor 2021.02 ~ 
