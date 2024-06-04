@@ -17,6 +17,7 @@ Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 20
 ### ## Awards
 #### ### 2024
 🥇 `Codegate CTF Preliminaries` 1st ( Team. USACyKor ) 
+
 🥇 `Plaid CTF` 1st ( Team. Hypeboy ) 
 
 #### ### 2023
