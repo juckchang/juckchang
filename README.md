@@ -4,6 +4,10 @@
 `Juchang Lee` (a.k.a `c2w2m2`)
 ### ## Teams
 `GoN`, `HypeBoy`, `SuperGuesser`
+### ## Career
+[Zellic](https://zellic.io/) Part-time Auditor 2023.09 ~ 
+
+[ENKI](https://enki.co.kr/) Security Researcher 2020.03 ~ 2022.12
 
 ### ## Educated
 Being in [KAIST](http://kaist.ac.kr/) CS, EE Bachelor 2021.02 ~ 
