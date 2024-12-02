@@ -20,6 +20,8 @@ Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 20
 
 ### ## Awards
 #### ### 2024
+🥇 `SCAN CTF` 2st ( Team. KAIST GoN ) 
+
 🥈 `HackTheDrone` 2rd ( Team. KAIST GoN )
 
 🥇 `FIESTA` 1st ( Team. KAIST GoN ) 
