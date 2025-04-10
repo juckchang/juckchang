@@ -20,13 +20,13 @@ Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 20
 
 ### ## Awards
 #### ### 2024
-🥇 `SCAN CTF` 2st ( Team. KAIST GoN ) 
+🥇 `SCAN CTF` 2nd ( Team. KAIST GoN ) 
 
-🥈 `HackTheDrone` 2rd ( Team. KAIST GoN )
+🥈 `HackTheDrone` 2nd ( Team. KAIST GoN )
 
 🥇 `FIESTA` 1st ( Team. KAIST GoN ) 
 
-🥈 `Codegate CTF` 2rd ( Team. USACyKor )
+🥈 `Codegate CTF` 2nd ( Team. USACyKor )
 
 🥇 `HackTheon CTF` 1st ( Team. KAIST GoN ) 
 
@@ -38,11 +38,11 @@ Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 20
 
 
 #### ### 2023
-🏅 `DEFCON 31 CTF` 4rd ( Team. Hypeboy ) & 🥈 `DEFCON 31 LiveCTF` 2rd 
+🏅 `DEFCON 31 CTF` 4th ( Team. Hypeboy ) & 🥈 `DEFCON 31 LiveCTF` 2rd 
 
 
 #### ### 2022
-🥈 `BlackHatMea CTF` 2rd ( Team. \{\{7*7\}\} )
+🥈 `BlackHatMea CTF` 2nd ( Team. \{\{7*7\}\} )
 
 🥉 `DEFCON 30 CTF` 3rd ( Team. StarBugs ) & 🥇 `DEFCON 30 LiveCTF` 1st
 
@@ -64,9 +64,9 @@ Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 20
 
 🥇 `m0lecon` 1st ( Team. AlPray )
 
-🥈 `CodeGate` univ qual 2st ( Team. USACykor )
+🥈 `CodeGate` univ qual 2nd ( Team. USACykor )
 
-🥈 `zer0pts` 2st ( Team. Cykor )
+🥈 `zer0pts` 2nd ( Team. Cykor )
 
 🏅 `0CTF/TCTF` finalist ( Team. koreanbadass )
 
