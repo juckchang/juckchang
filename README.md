@@ -19,6 +19,14 @@ Graduated [Best of Best](https://www.kitribob.kr/) 7th in 2018
 Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 2020.02
 
 ### ## Awards
+#### ### 2025
+🥇 `ELECCON CTF` 1st ( Team. HEXA ) 
+
+🥈 `Codegate CTF` 2nd ( Team. CyGoN )
+
+🥉 `DEFCON 33 CTF` 3rd ( Team. SuperDiceCode )
+
+
 #### ### 2024
 🥇 `SCAN CTF` 2nd ( Team. KAIST GoN ) 
 
