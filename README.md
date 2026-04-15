@@ -5,7 +5,7 @@
 ### ## Teams
 `GoN`, `HypeBoy`, `SuperGuesser`
 ### ## Career
-[Zellic](https://zellic.io/) Auditor 2023.09 ~ 
+[Zellic](https://zellic.io/) Auditor 2023.09 ~ 2025.08
 
 [ENKI](https://enki.co.kr/) Security Researcher 2020.03 ~ 2022.12
 
